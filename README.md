@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do M A T T Z 🌪️
 
-   
+<img align="right" width="150" src="https://count.getloli.com/get/@:mateuscordeiro011?theme=rule34">  
 
 ### ⚙️ GitHub Analytics
 
@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/mattz_.011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="right" width="150" src="https://count.getloli.com/get/@:mateuscordeiro011?theme=rule34">
+
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
