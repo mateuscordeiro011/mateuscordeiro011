@@ -17,7 +17,7 @@
 <details>
   <summary>Sobre Mim</summary>
 
-  - 💬 Tenho 16 e atualmente moro no Brasil, estou estudando SQL, Python, Java, JS, Node.js, React e Powerbi. Também faço lives nas horas vagas, tanto na twich quanto no tik tok, o que me ajudou a desenvolver habilidades importantes como criatividade e comunicação.
+  - 💬 Tenho 16 anos e atualmente moro no Brasil, estou estudando SQL, Python, Java, JS, Node.js, React e Powerbi. Também faço lives nas horas vagas, tanto na twich quanto no tik tok, o que me ajudou a desenvolver habilidades importantes como criatividade e comunicação.
 
   - ⚡ Gosto de assistir Futebol e UFC, sou um cinéfilo e passo a maior parte do tempo ouvindo musica! Torcedor fanático do Athletico Paranaense e Borussia Dortmund 
 </details>
