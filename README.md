@@ -40,16 +40,3 @@
 <div>
   <a href="https://www.instagram.com/mattz_.011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/mateuscordeiro011/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
