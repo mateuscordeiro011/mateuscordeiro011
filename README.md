@@ -40,3 +40,6 @@
 <div>
   <a href="https://www.instagram.com/mattz_.011/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=890lran7g3f7zcqi3ov6un7fx&cover_image=true&theme=default&show_offline=false&background_color=2b28e2&interchange=true&bar_color_cover=false&bar_color=ff0000)](https://github.com//spotify-github-profile)
