@@ -22,8 +22,6 @@
   - ⚡ Gosto de assistir Futebol e UFC, sou um cinéfilo e passo a maior parte do tempo ouvindo musica! Torcedor fanático do Athletico Paranaense e Borussia Dortmund 
 </details>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattz_.011/)
-
 <table>
   <tr>
     <td>
