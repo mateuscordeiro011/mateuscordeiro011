@@ -11,7 +11,7 @@
 
   - 🌪️ Estou em busca do meu primeiro emprego, desejo aprender cada dia mais.
 
-  - 👑 "Aqui a diferença começa pela qualidade"
+  - 👑 "Remember who you are"
 </p>
 
 <details>
