@@ -13,14 +13,21 @@
 
   - 👑 "Remember who you are"
 </p>
-
 <details>
   <summary>Sobre Mim</summary>
 
-  - 💬 Tenho 16 anos e atualmente moro no Brasil, estou estudando SQL, Python, Java, JS, Node.js, React e Powerbi. Também faço lives nas horas vagas, tanto na twich quanto no tik tok, o que me ajudou a desenvolver habilidades importantes como criatividade e comunicação.
+  - 💬 Comecei a programar aos 15 anos, como muitas pessoas proximas eram dessa aréa eu cresci vendo sobre programação. Hoje atuo como desenvolvedor Full-stack e estou sempre buscando a melhora e evolução
 
-  - ⚡ Gosto de assistir Futebol e UFC, sou um cinéfilo e passo a maior parte do tempo ouvindo musica! Torcedor fanático do Athletico Paranaense e Borussia Dortmund 
+  ## Curiosidades 
+
+  - 👾 Quando não estou programando, normalmente estou fazendo live nas redes sociais jogando ou apenas conversando
+
+  - 🔥 Apaixonado em ver lutas de MMA e assistir futebol
+
+  - 🗡️ Fora da area de programação eu estudo sobre edição de foto, edição de video e criação de musica.
 </details>
+
+<br>
 
 <table>
   <tr>
@@ -43,13 +50,24 @@
 
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
-    <h3>Linguagens</h3>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <h3>Linguagens / Frameworks </h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">  
+    <h3>Extras!</h3>
+  <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+  <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="FL STUDIO" height="30" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">
+
   </div>
  
 <br>
 
-
-[<img src="https://spotify-now-playing-lutk77gdl-mattzs-projects-ed132ae2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/890lran7g3f7zcqi3ov6un7fx)
+## Contatos
+- [Email](mailto:mateuscordeiro1311@gmail.com)
+- [Instagram](https://www.instagram.com/mattz_999)
+- [WhatsApp](https://wa.me/+5511930164435)
