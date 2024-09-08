@@ -11,7 +11,7 @@
 
   - 🌪️ Estou em busca do meu primeiro emprego, desejo aprender cada dia mais.
 
-  - 👑 "Remember who you are"
+  - 👑 "Remember the name"
 </p>
 <details>
   <summary>Sobre Mim</summary>
