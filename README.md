@@ -52,4 +52,4 @@
 <br>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=890lran7g3f7zcqi3ov6un7fx&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile)
+[<img src="https://spotify-now-playing-lutk77gdl-mattzs-projects-ed132ae2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/890lran7g3f7zcqi3ov6un7fx)
