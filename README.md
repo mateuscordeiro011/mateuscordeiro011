@@ -62,7 +62,7 @@
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="FL STUDIO" height="30" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">
-
+  <img align="center" alt="FL STUDIO" height="30" width="40" src="https://www.adobe.com/br/federal/globalnav/acom/fragments/cc/media_1008ed3f3bb955628310c49f27e4509f7312c6072.png">
   </div>
  
 <br>
